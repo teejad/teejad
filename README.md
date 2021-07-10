@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @teejad
-- 👀 I’m interested in self-development 
-- 🌱 I’m currently learning Web development
+- 👀 I’m interested in Software development and Data visualisations!✨ Everything Data✨ 
+- 🌱 I’m currently learning Javescript , HTML , CSS , Python and SQL. 
 - 💞️ I’m looking to collaborate on building websites 
-- 📫 How to reach me ...
+- 📫 Email me at Teeabatti@gmail.com 
 
 <!---
 teejad/teejad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
