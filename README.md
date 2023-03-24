@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @teejad
-- 👀 I’m interested in Software development and Data visualisations!✨ Everything Data✨ 
-- 🌱 I’m currently learning Javescript , HTML , CSS , Python and SQL, Nodejs and Reactjs . 
+- 👀 I’m interested in Software development and Quality Assurance
+- 🌱 I'm experienced in Javescript , HTML , CSS , Python and SQL, Nodejs and Reactjs. And I have experince in testing Web application and mobile app using 
+Cypress, Appium, Playwright and Postman. 
 - 💞️ I’m looking to collaborate on building websites , apps 
 - 📫 Email me at tianaabati@gmail.com
 
